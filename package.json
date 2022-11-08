@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@elemaudio/node-renderer": "^1.0.5"
+  },
+  "name": "binaural-beats",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "elementary ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitaIfabric/binaural-beats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitaIfabric/binaural-beats/issues"
+  },
+  "homepage": "https://github.com/digitaIfabric/binaural-beats#readme"
+}
